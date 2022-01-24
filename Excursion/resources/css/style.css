@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;   
+}
+
+.header--main {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.topLink {
+    color: turquoise;
+}
+
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.descriptionParagraph {
+    font-weight: normal;
+    font-size: 21px;
+    color: slategray;
+}
+
+.link {
+   color: aquamarine; 
+   font-size: 16px;
+}
+
+.footer {
+    text-align: right;
+    color: slategray;
+    font-size: 21px;
+}
